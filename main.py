@@ -135,7 +135,7 @@ if __name__ == '__main__':
     embedding = find_embedding(triangle, square, random_seed=10)
     print("Embedding Length: ", len(embedding))
     print(embedding)
-    a=1
+    a=2
 
 
 
